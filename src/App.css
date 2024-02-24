@@ -14,3 +14,7 @@ body {
   letter-spacing: 2px;
   font-family: Arial, Helvetica, sans-serif;
 }
+.center{
+  display: flex !important;
+  align-items: center !important;
+}
